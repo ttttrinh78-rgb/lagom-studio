@@ -1,0 +1,11 @@
+# Màu nền cho nút, ô nhập, thanh trượt... của Streamlit, khớp với style.css
+[theme]
+base = "light"
+primaryColor = "#c5587b"
+backgroundColor = "#fbe9ef"
+secondaryBackgroundColor = "#fdf0f4"
+textColor = "#2d2329"
+font = "sans serif"
+# Hai dòng dưới chỉ có tác dụng từ Streamlit 1.44 (bản cũ bỏ qua, chỉ báo cảnh báo)
+borderColor = "#f3d9e3"
+baseRadius = "medium"
