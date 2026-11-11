@@ -1,0 +1,8 @@
+streamlit
+streamlit-cookies-manager
+numpy
+pandas
+Pillow
+torch
+open_clip_torch
+rembg
